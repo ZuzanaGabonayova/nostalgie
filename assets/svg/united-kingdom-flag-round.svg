@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Countryflags.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#CF142B;}
+	.st3{fill:#00247D;}
+</style>
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="150" cy="150" r="150"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<rect id="_x31_4_1_" x="-150" y="0" class="st1" width="599.69" height="299.97"/>
+		<polygon id="_x31_3_1_" class="st2" points="119.86,179.89 119.86,299.97 179.83,299.97 179.83,179.89 449.69,179.89 
+			449.69,119.92 179.83,119.92 179.83,0 119.86,0 119.86,119.92 -150,119.92 -150,179.89 		"/>
+		<polygon id="_x31_2_1_" class="st3" points="199.83,97.1 199.83,0 393.99,0 		"/>
+		<polygon id="_x31_1_1_" class="st3" points="199.83,202.87 199.83,299.97 393.99,299.97 		"/>
+		<polygon id="_x31_0_1_" class="st3" points="99.86,202.87 99.86,299.97 -94.3,299.97 		"/>
+		<polygon id="_x39__1_" class="st3" points="99.86,97.1 99.86,0 -94.3,0 		"/>
+		<polygon id="_x38__1_" class="st3" points="-150,27.88 -150,99.99 -5.82,99.99 		"/>
+		<polygon id="_x37__1_" class="st3" points="449.69,27.88 449.69,99.99 305.51,99.99 		"/>
+		<polygon id="_x36__1_" class="st3" points="449.69,272.08 449.69,199.98 305.51,199.98 		"/>
+		<polygon id="_x35__1_" class="st3" points="-150,272.08 -150,199.98 -5.82,199.98 		"/>
+		<polyline id="_x34__1_" class="st2" points="449.69,0 416.38,0 216.8,99.99 250.11,99.99 450,0 		"/>
+		<polyline id="_x33_" class="st2" points="82.89,199.97 49.58,199.98 -150,299.96 -116.69,299.96 83.2,199.97 		"/>
+		<polygon id="_x32__1_" class="st2" points="16.53,100.06 49.84,100.06 -150,0 -150,16.77 		"/>
+		<polygon id="_x31__1_" class="st2" points="283.05,199.94 249.74,199.94 449.58,300 449.58,283.23 		"/>
+	</g>
+</g>
+</svg>
